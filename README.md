@@ -1,4 +1,4 @@
-# <p align="center">>🖤<i>Nevest.</i></p>
+# <p align="center">🖤<i>Nevest.</i></p>
 <h1 align="center">Lost in a briliant scarry world.</h1>
 
 <img align="rigth" src="https://avatars.githubusercontent.com/u/87545167?v=4" width="300" height="300" />
