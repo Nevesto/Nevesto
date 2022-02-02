@@ -1,13 +1,14 @@
-# <p><i>🖤 Nevest.</p></i>
+# <p>🖤<i>Nevest.</i></p>
 
-<img align="right" src="https://avatars.githubusercontent.com/u/87545167?v=4" width="300" height="300" />
+<img src="https://avatars.githubusercontent.com/u/87545167?v=4" width="300" height="300" />
 <h1 align="center">Lost in a briliant scarry world.</h1>
 
-![occupation](https://cdn.discordapp.com/attachments/938269956838158336/938269977365057566/Occupation.png)
-![occupation2](https://cdn.discordapp.com/attachments/938269956838158336/938269977578979328/Occupation2.png)
+![occupation](https://img.shields.io/static/v1?label=&message=Occupation%3A&color=111&style=flat-square)
+![occupation2](https://img.shields.io/static/v1?label=&message=high%20school%20student%2C%20backend%20%20developer&color=555&style=flat-square)
 
-![stack](https://cdn.discordapp.com/attachments/938269956838158336/938271122405871636/Stack.png)
-![stack2](https://media.discordapp.net/attachments/938269956838158336/938269976727535656/Stack2.png)
+![stack](https://img.shields.io/static/v1?label=&message=Stack%3A&color=111&style=flat-square)
+![stack2](https://img.shields.io/static/v1?label=&message=nodets%20nodejs&color=555&style=flat-square)
 
-![contact](https://cdn.discordapp.com/attachments/938269956838158336/938269976933068830/Contact.png)
-![contact2](https://cdn.discordapp.com/attachments/938269956838158336/938269977146974218/Contact2.png)
+
+![contact](https://img.shields.io/static/v1?label=&message=Contact%3A&color=111&style=flat-square)
+![contact2](https://img.shields.io/static/v1?logo=discord&label=&message=Nevest%232008&color=555&logoColor=AAA&style=flat-square)
