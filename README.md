@@ -1,5 +1,5 @@
 # <p align="center">🖤<i>Nevest.</i></p>
-<h1 align="center">Lost in a briliant scarry world.</h1>
+<h3 align="center">Lost in a briliant scarry world.</h3>
 
 <img align="right" src="https://avatars.githubusercontent.com/u/87545167?v=4" width="300" height="300" />
 
