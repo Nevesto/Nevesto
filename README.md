@@ -1,5 +1,7 @@
 # <p align="center">🖤<i>Nevest.</i></p>
-<h2 align="center">Lost in a briliant scarry world.</h2>
+## <h4 align="center">Lost in a briliant scarry world.</h4>
+</hr>
+
 <img align="right" src="https://avatars.githubusercontent.com/u/87545167?v=4" width="300" height="300" />
 
 ![occupation](https://img.shields.io/static/v1?label=&message=Occupation%3A&color=111&style=flat-square)
