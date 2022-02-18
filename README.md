@@ -1,6 +1,6 @@
 # <p align="center">🖤<i>Nevest.</i></p>
 
-<img align="right" src="https://avatars.githubusercontent.com/u/87545167?v=4" width="300" height="300" />
+<img align="right" src="https://avatars.githubusercontent.com/u/87545167?v=4" width="200" height="200" />
 
 ![occupation](https://img.shields.io/static/v1?label=&message=Occupation%3A&color=111&style=flat-square)
 ![occupation2](https://img.shields.io/static/v1?label=&message=high%20school%20student%2C%20backend%20%20developer&color=555&style=flat-square)
