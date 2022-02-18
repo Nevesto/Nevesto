@@ -9,7 +9,7 @@
 ![stack2](https://img.shields.io/static/v1?label=&message=nodets%2C%20nodejs&color=555&style=flat-square)
 
 ![hobbie](https://img.shields.io/static/v1?label=&message=hobbies%3A&color=111&style=flat-square)
-![hobbie2](https://img.shields.io/static/v1?label=&message=professional%2C%20hg%2C%20player&color=555&style=flat-square)
+![hobbie2](https://img.shields.io/static/v1?label=&message=professional%20hg%20player&color=555&style=flat-square)
 
 ![contact](https://img.shields.io/static/v1?label=&message=Contact%3A&color=111&style=flat-square)
 ![contact2](https://img.shields.io/static/v1?logo=discord&label=&message=Nevest%232008&color=555&logoColor=AAA&style=flat-square)
