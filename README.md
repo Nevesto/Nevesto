@@ -14,3 +14,4 @@
 ![contact](https://img.shields.io/static/v1?label=&message=Contact%3A&color=111&style=flat-square)
 ![contact2](https://img.shields.io/static/v1?logo=discord&label=&message=Nevest%232008&color=555&logoColor=AAA&style=flat-square)
 
+![A](https://img.shields.io/static/v1?label=&message=AAAAAAAAAAAAAAAAA%3A&color=111&style=flat-square)
