@@ -15,4 +15,4 @@
 ![contact2](https://img.shields.io/static/v1?logo=discord&label=&message=Nevest%235782&color=555&logoColor=AAA&style=flat-square)
 
 ![love](https://img.shields.io/static/v1?label=&message=Like%2C%20unlike%3A&color=111&style=flat-square)
-![hate](https://img.shields.io/static/v1?label=&message=I%20like%20pentest%20and%20i%20hate%20programming%20sql&color=555&logoColor=AAA&style=flat-square)
+![hate](https://img.shields.io/static/v1?label=&message=I%20like%20coffe%20and%20RPG%20games&color=555&logoColor=AAA&style=flat-square)
