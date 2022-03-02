@@ -8,8 +8,8 @@
 ![stack](https://img.shields.io/static/v1?label=&message=Stack%3A&color=111&style=flat-square)
 ![stack2](https://img.shields.io/static/v1?label=&message=nodets%2C%20nodejs&color=555&style=flat-square)
 
-![hobbie](https://img.shields.io/static/v1?label=&message=About%20me%3A&color=111&style=flat-square)
-![hobbie2](https://img.shields.io/static/v1?label=&message=professional%20hg%20player&color=555&style=flat-square)
+![Aboutme1](https://img.shields.io/static/v1?label=&message=About%20me%3A&color=111&style=flat-square)
+![Aboutme2](https://img.shields.io/static/v1?label=&message=I%20like%20riddles%20and%20challenges.&color=555&style=flat-square)
 
 ![love](https://img.shields.io/static/v1?label=&message=Likes%3A&color=111&style=flat-square)
 ![hate](https://img.shields.io/static/v1?label=&message=I%20like%20coffe%20and%20RPG%20games&color=555&logoColor=AAA&style=flat-square)
