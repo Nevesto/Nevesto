@@ -1,5 +1,3 @@
-# <p align="center">🖤<i>Nevest.</i></p>
-
 <img align="right" src="https://avatars.githubusercontent.com/u/87545167?v=4" width="200" height="200" />
 
 ![occupation](https://img.shields.io/static/v1?label=&message=Occupation%3A&color=111&style=flat-square)
