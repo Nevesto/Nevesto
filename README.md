@@ -8,7 +8,7 @@
 ![stack](https://img.shields.io/static/v1?label=&message=Stack%3A&color=111&style=flat-square)
 ![stack2](https://img.shields.io/static/v1?label=&message=nodets%2C%20nodejs&color=555&style=flat-square)
 
-![hobbie](https://img.shields.io/static/v1?label=&message=hobbies%3A&color=111&style=flat-square)
+![hobbie](https://img.shields.io/static/v1?label=&message=About%20me%3A&color=111&style=flat-square)
 ![hobbie2](https://img.shields.io/static/v1?label=&message=professional%20hg%20player&color=555&style=flat-square)
 
 ![love](https://img.shields.io/static/v1?label=&message=Likes%3A&color=111&style=flat-square)
