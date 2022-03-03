@@ -10,7 +10,7 @@
 ![stack2](https://img.shields.io/static/v1?label=&message=nodejs%2C%20python&color=555&style=flat-square)
 
 ![Aboutme1](https://img.shields.io/static/v1?label=&message=About%20me%3A&color=111&style=flat-square)
-![Aboutme2](https://img.shields.io/static/v1?label=&message=I%20like%20riddles%20and%20challenges.&color=555&style=flat-square)
+![Aboutme2](https://img.shields.io/static/v1?label=&message=Professional%20keyboard%20warrior.&color=555&style=flat-square)
 
 ![contact](https://img.shields.io/static/v1?label=&message=Contact%3A&color=111&style=flat-square)
 ![contact2](https://img.shields.io/static/v1?logo=discord&label=&message=Nevest%235782&color=555&logoColor=AAA&style=flat-square)
