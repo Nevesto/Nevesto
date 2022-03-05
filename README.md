@@ -7,7 +7,7 @@
 ![occupation2](https://img.shields.io/static/v1?label=&message=high%20school%20student%2C%20backend%20%20developer&color=555&style=flat-square)
 
 ![stack](https://img.shields.io/static/v1?label=&message=Stack%3A&color=111&style=flat-square)
-![stack2](https://img.shields.io/static/v1?label=&message=nodejs%2C%20python&color=555&style=flat-square)
+![stack2](https://img.shields.io/static/v1?label=&message=nodejs&color=555&style=flat-square)
 
 ![Aboutme1](https://img.shields.io/static/v1?label=&message=About%20me%3A&color=111&style=flat-square)
 ![Aboutme2](https://img.shields.io/static/v1?label=&message=Professional%20keyboard%20warrior.&color=555&style=flat-square)
