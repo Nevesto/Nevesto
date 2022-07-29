@@ -10,7 +10,7 @@ class AboutMe extends Developer {
 class Skills extends Developer {
   stacks  = ['typescript, python'];
   area  = ['web development, automation, reverse engineering'];
-  frameworks = ['vuejs'];
+  frameworks = ['vue.js, CherryPy'];
 }
 ```
 <!--  
