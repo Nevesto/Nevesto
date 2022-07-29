@@ -1,7 +1,7 @@
 ```js
 import Developer from 'Nevesto';
 
-class aboutMe extends Developer {
+class AboutMe extends Developer {
   name = 'Guilherme';
   age = '17';
   appreciations = 'good books and coffe';
