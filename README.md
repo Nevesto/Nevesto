@@ -11,7 +11,7 @@ class Skills extends Developer {
   stacks  = ['typescript, python'];
   area  = ['web development, automation, reverse engineering'];
   frameworks = ['vue.js, CherryPy'];
-  desgin = ['Figma, Photoshop,  Adobe Aftter Effects and Premiere]
+  desgin = ['Figma, Photoshop,  Adobe Aftter Effects and Premiere'];
 }
 ```
 <!--  
