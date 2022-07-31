@@ -4,7 +4,7 @@ import Developer from 'Nevesto';
 class AboutMe extends Developer {
   name = 'Guilherme';
   age = '17';
-  appreciations = 'good books, Ramen noodles and coffe';
+  appreciations = [good books, Ramen noodles and coffe'];
 }
 
 class Skills extends Developer {
