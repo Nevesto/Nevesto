@@ -8,10 +8,10 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  stacks  = ['typescript, python'];
+  stacks  = ['typescript, python, java, C++'];
   area  = ['web development, automation, reverse engineering'];
   frameworks = ['vue.js, CherryPy'];
-  desgin = ['Figma, Photoshop, Aftter Effects, Premiere'];
+  Software = ['Visual Studio Code, Visual Studio 2022, Unity, IntelliJ IDEA'];
 }
 ```
 <!--  
