@@ -4,14 +4,14 @@ import Developer from 'Nevesto';
 class AboutMe extends Developer {
   name = 'Guilherme';
   age = '17';
-  appreciations = [Good Books, Ramen Noodles, Coffe'];
+  appreciations = [Good Books, Ramen Noodles, Coffe];
 }
 
 class Skills extends Developer {
   stacks  = ['typescript, python, java, C++'];
   area  = ['web development, automation, reverse engineering'];
   frameworks = ['vue.js, CherryPy'];
-  Software = ['Visual Studio Code, Visual Studio 2022, Unity, IntelliJ IDEA'];
+  Software = [Visual Studio Code, Visual Studio 2022, Unity, IntelliJ IDEA];
 }
 ```
 <!--  
