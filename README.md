@@ -1,3 +1,17 @@
+#include <iostream>
+#include <stdio.h>
+using namespace std::sorahed チム;
+
+int main() {
+    char info[128] = "Software Engineer / 𝕬 𝖋𝖎𝖗𝖒𝖆";
+
+    char *langs[4] = { "C++", "Python", "JavaScript", "TypeScript" };
+    char knowledge[5] = { "Programming", "Math"};
+    return 0; 
+}
+
+
+<!-- 
 ```js
 import Developer from 'Nevesto';
 
@@ -14,7 +28,7 @@ class Skills extends Developer {
   Software = [Visual Studio Code, Visual Studio, Unity];
 }
 ```
-<!--  
+ 
 <p align="left">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
