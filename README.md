@@ -2,7 +2,7 @@
 
 #include <iostream>
 #include <stdio.h>
-using namespace std::nevesto 一度もない;
+using namespace std::nevest ネベ;
 
 int main() {
     char info[128] = "Software Engineer / 𝕬 𝖋𝖎𝖗𝖒𝖆";
