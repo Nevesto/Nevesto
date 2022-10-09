@@ -1,3 +1,5 @@
+```C++
+
 #include <iostream>
 #include <stdio.h>
 using namespace std::sorahed チム;
@@ -9,7 +11,7 @@ int main() {
     char knowledge[5] = { "Programming", "Math"};
     return 0; 
 }
-
+```
 
 <!-- 
 ```js
