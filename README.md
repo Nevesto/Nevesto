@@ -7,8 +7,8 @@ using namespace std::nevest ネベ;
 int main() {
     char info[128] = "Software Engineer / 𝕬 𝖋𝖎𝖗𝖒𝖆";
 
-    char langs[4] = { "C++", "Python", "JavaScript", "TypeScript" };
-    char knowledge[5] = { "Programming", "Math"};
+    char langs[3] = { "C++", "Python", "JavaScript", "TypeScript" };
+    char knowledge[1] = { "Programming", "Math"};
     return 0; 
 }
 ```
