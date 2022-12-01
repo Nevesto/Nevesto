@@ -1,4 +1,4 @@
-```C++
+<!-- ```C++
 
 #include <iostream>
 #include <stdio.h>
@@ -11,7 +11,7 @@ int main() {
     char knowledge[1] = { "Programming", "Math"};
     return 0; 
 }
-```
+``` -->
 
 <!-- 
 ```js
