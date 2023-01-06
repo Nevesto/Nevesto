@@ -1,5 +1,5 @@
 ````
-<p align-items: center;>hi, i'm Nevest!</p>
+<p alig="center">hi, i'm Nevest!</p>
 ````
 <!-- 
 ```C++
