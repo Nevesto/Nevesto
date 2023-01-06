@@ -1,5 +1,5 @@
 ````
-<p alig="center">hi, i'm Nevest!</p>
+<p align="center">hi, i'm Nevest!</p>
 ````
 <!-- 
 ```C++
