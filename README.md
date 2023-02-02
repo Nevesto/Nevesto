@@ -2,6 +2,12 @@
 ````
 hi, i'm Nevest!
 ````
+
+I'm a programming student, paixonated in automation, security, typescript, coffe and math.
+
+I'm currently improving my skills in JavaScript, TypeScript and Python.
+
+If you want to talk with dm me in discord! (Nevest#5782)
 <!-- 
 ```C++
 
