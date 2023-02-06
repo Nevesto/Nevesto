@@ -1,8 +1,4 @@
 
-````
-hi, i'm Nevest! I love code, if you want to learn or teach something to me text me in my discord: Nevest#5782
-````
-<!-- 
 ```C++
 
 #include <iostream>
@@ -10,13 +6,18 @@ hi, i'm Nevest! I love code, if you want to learn or teach something to me text 
 using namespace std::nevest ネベ;
 
 int main() {
-    char info[666] = "Software Engineer / 𝕬 𝖋𝖎𝖗𝖒𝖆";
+    char info[017] = "Software Engineer";
 
     char langs[3] = { "C++", "Python", "JavaScript", "TypeScript" };
     char knowledge[1] = { "Programming", "Math"};
     return 0; 
 }
 ```
+<!--
+````
+hi, i'm Nevest! I love code, if you want to learn or teach something to me text me in my discord: Nevest#5782
+````
+
 
 
 ```js
