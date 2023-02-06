@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include <stdio.h>
+
 using namespace std::nevest ネベ;
 
 int main() {
