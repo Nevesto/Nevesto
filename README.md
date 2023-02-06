@@ -7,7 +7,7 @@
 using namespace std::nevest ネベ;
 
 int main() {
-    char info[017] = "Software Engineer";
+    char info[128] = "Software Engineer";
 
     char langs[3] = { "C++", "Python", "JavaScript", "TypeScript" };
     char knowledge[1] = { "Programming", "Math"};
