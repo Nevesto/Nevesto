@@ -1,20 +1,21 @@
 ````
-         _nnnn_
-        dGGGGMMb
-       @p~qp~~qMb       OS: Windows 10 pro | Kali Linux
-       M|@||@) M|        Automation & Cyber Security
-       @,----.JM|         Stacks: JavaScript, Java, Python, C++
-      JS^\__/  qKL         I like intelectual books, night and math.
-     dZP        qKRb 
-    dZP          qKKb
-   fZP            SMMb
-   HZM            MMMM
-   FqM            MMMM
- __| ".        |\dS"qML
- |    `.       | `' \Zq
-_)      \.___.,|     .'
-\____   )MMMMMP|   .'
-     `-'       `--' hjm
+
+                  _nnnn_
+                 dGGGGMMb
+                @p~qp~~qMb       OS: Windows 10 pro | Kali Linux
+                M|@||@) M|        Automation & Cyber Security
+                @,----.JM|         Stacks: JavaScript, Java, Python, C++
+               JS^\__/  qKL         I like intelectual books, night and math.
+              dZP        qKRb 
+             dZP          qKKb
+            fZP            SMMb
+            HZM            MMMM
+            FqM            MMMM
+          __| ".        |\dS"qML
+          |    `.       | `' \Zq
+         _)      \.___.,|     .'
+         \____   )MMMMMP|   .'
+              `-'       `--' hjm
 
 ````
 <!--
