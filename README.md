@@ -4,7 +4,7 @@
                  dGGGGMMb
                 @p~qp~~qMb       OS: Windows 10 pro | Kali Linux
                 M|@||@) M|        Automation & Cyber Security
-                @,----.JM|         Stacks: JavaScript, Java, Python, C++
+                @,----.JM|         Stacks: TypeScript, Java, Python, C++
                JS^\__/  qKL         I like intelectual books, night and math.
               dZP        qKRb 
              dZP          qKKb
