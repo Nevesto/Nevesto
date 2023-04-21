@@ -4,7 +4,7 @@
                  dGGGGMMb
                 @p~qp~~qMb       OS: Windows 10 pro | Archcraft Linux
                 M|@||@) M|        Automation & Cyber Security
-                @,----.JM|         Stacks: TypeScript, Java, Python, C++
+                @,----.JM|         Stacks: TypeScript, Python
                JS^\__/  qKL         I like intelectual books, night and math.
               dZP        qKRb 
              dZP          qKKb
