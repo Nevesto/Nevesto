@@ -5,7 +5,7 @@
                 @p~qp~~qMb       OS: Windows 10 pro | Archcraft Linux
                 M|@||@) M|        Automation & Cyber Security
                 @,----.JM|         Stacks: TypeScript, Python
-               JS^\__/  qKL         I like intelectual books, night and math.
+               JS^\__/  qKL         I like books, late night study and math.
               dZP        qKRb 
              dZP          qKKb
             fZP            SMMb
