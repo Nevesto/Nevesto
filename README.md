@@ -1,7 +1,7 @@
-<div style="display: flex; align: center; flex-direction: column;">
-        <p>Software engineer: Nodejs, python;  </p>
+<p align="center">
+        <b>Software engineer: Nodejs, python;</b></br>
         <img src="https://www.codewars.com/users/Nevesto/badges/large" alt="" srcset="">
-</div>
+</p>
 <!--
 ````
 
