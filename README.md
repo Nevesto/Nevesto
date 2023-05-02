@@ -1,3 +1,10 @@
+
+<p style="align-items: center;"> 
+Software engineer: Nodejs, python;
+<img src="https://www.codewars.com/users/Nevesto/badges/large" alt="" srcset="">
+</p>
+
+<!--
 ````
 
                   _nnnn_
@@ -18,7 +25,7 @@
               `-'       `--' nevest
 
 ````
-<!--
+
 ```C++
 Professional in a lot of things. Like read, i like good books.
 #include <iostream>
