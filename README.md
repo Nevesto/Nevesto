@@ -1,9 +1,7 @@
-
-<p style="align-items: center;"> 
-Software engineer: Nodejs, python;
-
-</p>
-<img src="https://www.codewars.com/users/Nevesto/badges/large" alt="" srcset="">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+        <p style=" display: flex; justify-content: center;">Software engineer: Nodejs, python;  </p>
+        <img src="https://www.codewars.com/users/Nevesto/badges/large" alt="" srcset="">
+</div>
 <!--
 ````
 
