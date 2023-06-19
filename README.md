@@ -1,19 +1,14 @@
-<p align="center">
-        <b>Software engineer: Nodejs, python;</b></br>
-        </br>
-        <img src="https://www.codewars.com/users/Nevesto/badges/small" alt="" srcset="">
-</p>
-<!--
+
 ````
 
                   _nnnn_
                  dGGGGMMb
-                @p~qp~~qMb       OS: Windows 10 pro | Archcraft Linux
-                M|@||@) M|        Automation & Cyber Security
-                @,----.JM|         Stacks: TypeScript, Python
-               JS^\__/  qKL         I like books, late night study and math.
-              dZP        qKRb 
-             dZP          qKKb
+                @p~qp~~qMb          OS: Windows 10 pro | Archcraft Linux
+                M|@||@) M|          Stacks: TypeScript, Python
+                @,----.JM|          Web Development, Automation & Cyber Security
+               JS^\__/  qKL         Editors: lunarVim, Visual Studio
+              dZP        qKRb       Telegram: @nevestpq
+             dZP          qKKb      CodeWars: /users/Nevesto - 5kyu 
             fZP            SMMb
             HZM            MMMM
             FqM            MMMM
@@ -24,6 +19,12 @@
               `-'       `--' nevest
 
 ````
+<!--
+<p align="center">
+        <b>Software engineer: Nodejs, python;</b></br>
+        </br>
+        <img src="https://www.codewars.com/users/Nevesto/badges/small" alt="" srcset="">
+</p>
 
 ```C++
 Professional in a lot of things. Like read, i like good books.
