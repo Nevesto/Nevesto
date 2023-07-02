@@ -7,9 +7,9 @@
                 M|@||@) M|          Stacks: TypeScript, Python
                 @,----.JM|          Web Development, Automation & Cyber Security
                JS^\__/  qKL         Editors: lunarVim, Visual Studio
-              dZP        qKRb       Telegram: @nevestpq
-             dZP          qKKb      CodeWars: /users/Nevesto - 5kyu 
-            fZP            SMMb
+              dZP        qKRb       Interested in contributing to open source projects
+             dZP          qKKb      Telegram: @nevestpq
+            fZP            SMMb     CodeWars: /users/Nevesto - 5kyu
             HZM            MMMM
             FqM            MMMM
           __| ".        |\dS"qML
