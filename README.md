@@ -1,23 +1,21 @@
 
 ````
-
                   _nnnn_
                  dGGGGMMb
-                @p~qp~~qMb          OS: Windows 10 pro | Archcraft Linux
-                M|@||@) M|          Stacks: TypeScript, Python
-                @,----.JM|          Web Development, Automation & Cyber Security
-               JS^\__/  qKL         Editors: lunarVim, Visual Studio
-              dZP        qKRb       Interested in contributing to open source projects
-             dZP          qKKb      Telegram: @nevestpq
-            fZP            SMMb     CodeWars: /users/Nevesto - 5kyu
-            HZM            MMMM
-            FqM            MMMM
+                @p~qp~~qMb          
+                M|@||@) M|          OS: Windows 10 pro | Archcraft Linux
+                @,----.JM|          Stacks: TypeScript, Python
+               JS^\__/  qKL         Web Development, Automation & Cyber Security
+              dZP        qKRb       Editors: lunarVim, Visual Studio
+             dZP          qKKb      Interested in contributing to open source projects
+            fZP            SMMb     Telegram: @nevestpq
+            HZM            MMMM     CodeWars: /users/Nevesto - 5kyu
+            FqM            MMMM     
           __| ".        |\dS"qML
           |    `.       | `' \Zq
          _)      \.___.,|     .'
          \____   )MMMMMP|   .'
               `-'       `--' nevest
-
 ````
 <!--
 <p align="center">
