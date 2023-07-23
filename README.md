@@ -4,7 +4,7 @@
                  dGGGGMMb
                 @p~qp~~qMb          
                 M|@||@) M|          OS: Windows 10 pro | Archcraft Linux
-                @,----.JM|          Stacks: TypeScript, Python
+                @,----.JM|          Stacks: TypeScript, Python, currently learning C
                JS^\__/  qKL         Web Development, Automation & Cyber Security
               dZP        qKRb       Editors: lunarVim, Visual Studio
              dZP          qKKb      Interested in contributing to open source projects
