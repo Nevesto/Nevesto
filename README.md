@@ -23,9 +23,9 @@
         </br>
         <img src="https://www.codewars.com/users/Nevesto/badges/small" alt="" srcset="">
 </p>
+Professional in a lot of things. Like read, i like good books.
 
 ```C++
-Professional in a lot of things. Like read, i like good books.
 #include <iostream>
 #include <stdio.h>
 
