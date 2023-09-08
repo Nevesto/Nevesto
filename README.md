@@ -4,13 +4,13 @@
                  dGGGGMMb
                 @p~qp~~qMb          
                 M|@||@) M|          OS: Windows 10 pro | Archcraft Linux
-                @,----.JM|          Stacks: TypeScript, Python, currently learning C
-               JS^\__/  qKL         Web Development, Automation & Cyber Security
-              dZP        qKRb       Editors: lunarVim, Visual Studio
-             dZP          qKKb      Interested in contributing to open source projects
-            fZP            SMMb     Telegram: @nevestpq
-            HZM            MMMM     CodeWars: /users/Nevesto - 5kyu
-            FqM            MMMM     
+                @,----.JM|          Stacks: TypeScript, Python.
+               JS^\__/  qKL         Still learning: C/C++ and golang.
+              dZP        qKRb       Web Development, Automation & Cyber Security
+             dZP          qKKb      Editors: lunarVim, Visual Studio
+            fZP            SMMb     Interested in contributing to open source projects
+            HZM            MMMM     Telegram: @nevestpq
+            FqM            MMMM     CodeWars: /users/Nevesto - 5kyu
           __| ".        |\dS"qML
           |    `.       | `' \Zq
          _)      \.___.,|     .'
