@@ -7,7 +7,7 @@
                JS^\__/  qKL             Still learning: C/C++ and golang.
               dZP        qKRb           Web Development, Automation & Cyber Security.
              dZP          qKKb          Editors: lunarVim, Visual Studio.
-            fZP            SMMb         Interested in contributing to open source projects.
+            fZP            SMMb         Interested in contributing to open-source projects.
             HZM            MMMM         Telegram: @nevestpq.
             FqM            MMMM         CodeWars: /users/Nevesto - 5kyu.
           __| ".        |\dS"qML
