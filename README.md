@@ -2,7 +2,7 @@
                   _nnnn_
                  dGGGGMMb
                 @p~qp~~qMb          
-                M|@||@) M|              OS: Windows 10 pro | Archcraft Linux
+                M|@||@) M|              OS: Windows 10 pro | Archcraft x86_64 Linux
                 @,----.JM|              Stacks: TypeScript, Python.
                JS^\__/  qKL             Still learning: C/C++ and golang.
               dZP        qKRb           Web Development, Automation & Cyber Security.
