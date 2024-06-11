@@ -3,8 +3,8 @@
                  dGGGGMMb
                 @p~qp~~qMb          
                 M|@||@) M|              OS: Windows 10 pro | Archcraft x86_64 Linux
-                @,----.JM|              Stacks: TypeScript, Python.
-               JS^\__/  qKL             Still learning: C/C++ and golang.
+                @,----.JM|              Stacks: TypeScript, Python, C.
+               JS^\__/  qKL             Still learning:java and golang.
               dZP        qKRb           Web Development, Automation & Cyber Security.
              dZP          qKKb          Editors: lunarVim, Visual Studio.
             fZP            SMMb         Interested in contributing to open-source projects.
